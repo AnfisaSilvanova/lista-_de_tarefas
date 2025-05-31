@@ -1,2 +1,4 @@
-# lista-_de_tarefas
-Lista de tarefas feitas em python
+# lista de tarefas
+Tcc Diversicadev
+
+Adicione, liste, delete em uma lista de tarefas feita em python
